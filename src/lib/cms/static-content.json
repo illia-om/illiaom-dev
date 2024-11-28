@@ -1,0 +1,198 @@
+{
+    "name": "illia omelchenko",
+    "jobTitle": "Senior Front End Engineer",
+    "contactInformation": {
+        "email": "illia@illiaom.dev",
+        "phone": null,
+        "address": "London, UK, SE1"
+    },
+    "summary": [
+        "Creative and highly motivated Senior Front-End Engineer with exceptional product sense.",
+        "With over five years of experience as a JS/TS developer, I have developed UIs for web and native platforms, created APIs, internal tools, and much more. Most importantly, through this work, I have solved various customer problems and helped businesses grow.",
+        "Starting my career in a global corporate company allowed me to solidify my fundamental skills. I then continued my journey in a small and fast-growing startup, which I found to be the best fit for my abilities.",
+        "I believe in the power of a great team, which is why I value honesty, equality, and trust.",
+        "My background in teaching demonstrates my ability to mentor and write excellent documentation. I look forward to finding creative solutions using the industry's endless knowledge and possibilities."
+    ],
+    "technologies": [
+        {
+            "name": "React",
+            "isHighlighted": true
+        },
+        {
+            "name": "Next.js",
+            "isHighlighted": true
+        },
+        {
+            "name": "Javascript",
+            "isHighlighted": true
+        },
+        {
+            "name": "Typescript",
+            "isHighlighted": true
+        },
+        {
+            "name": "React Native",
+            "isHighlighted": true
+        },
+        {
+            "name": "Node.js",
+            "isHighlighted": true
+        },
+        {
+            "name": "PostgreSQL",
+            "isHighlighted": false
+        },
+        {
+            "name": "MongoDB",
+            "isHighlighted": false
+        },
+        {
+            "name": "Jest",
+            "isHighlighted": false
+        },
+        {
+            "name": "Playwright",
+            "isHighlighted": false
+        }
+    ],
+    "experience": [
+        {
+            "company": {
+                "name": "Napo",
+                "website": "https://www.napo.pet/",
+                "logo": "napo-logo.png",
+                "description": "InsurTech Startup helping pet owners to make their pet happy",
+                "location": "London, United Kingdom"
+            },
+            "roles": [
+                {
+                    "roleTitle": "Senior Web Engineer",
+                    "startDate": "01-10-2023",
+                    "endDate": null,
+                    "technologies": [
+                        {
+                            "name": "React",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Next.js",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Typescript",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "React Native",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Node.js",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Playwright",
+                            "isHighlighted": false
+                        }
+                    ],
+                    "achievements": [
+                        "Launched a native Puppy Academy App within small agile team. With the goal to help our customers alongside their dog training journey we reached our first hundreds of weekly users.",
+                        "Adopted OpenAI's LLM to power personalised content recommendations for users based on what they struggle the most.",
+                        "Migrated web codebase from “Pages router” to “App router” with adoption of new React Server Components. This improved web-app performance and developer experience."
+                    ]
+                },
+                {
+                    "roleTitle": "Web Engineer",
+                    "startDate": "31-10-2022",
+                    "endDate": "01-10-2023",
+                    "technologies": [
+                        {
+                            "name": "React",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Next.js",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Typescript",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Node.js",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Playwright",
+                            "isHighlighted": false
+                        }
+                    ],
+                    "achievements": [
+                        "Worked on scaling claim assessment throughput by developing self-serve and automated tools for both customers and internal team.",
+                        "Decreased manual intervention in customer claims from 60% to 30%, laying the groundwork for a fully automated system covering over 30% of all claims.",
+                        "Developed dynamic and multi-step forms with branching logic that made customer interaction with the product easier then ever."
+                    ]
+                }
+            ]
+        },
+        {
+            "company": {
+                "name": "Wix",
+                "website": "https://www.wix.com/",
+                "logo": "wix-logo.png",
+                "description": "Website builder for individuals and e-commerce",
+                "location": "Kyiv, Ukraine"
+            },
+            "roles": [
+                {
+                    "roleTitle": "Javascript Developer",
+                    "startDate": "14-03-2019",
+                    "endDate": "31-07-2022",
+                    "technologies": [
+                        {
+                            "name": "React",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Javascript",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Typescript",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "Node.js",
+                            "isHighlighted": true
+                        },
+                        {
+                            "name": "MongoDB",
+                            "isHighlighted": false
+                        }
+                    ],
+                    "achievements": [
+                        "Led a team of four as Scrum Master/Developer to develop an API, maintaining regular contact with management for sprint planning",
+                        "Built back-office tools with TeamCity API to enhance QA productivity, collaborating closely with cross-departmental colleagues.",
+                        "Implemented custom E-Commerce, CRM, and Database integrations for Wix sites to expand business functionalities, ensuring client requirements were met through continuous communication."
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institutionName": "Dnipro National University",
+            "educationType": "Bachelor's Degree",
+            "fieldOfStudy": "Mathematics and Statistics",
+            "startDate": "01-09-2015",
+            "endDate": "01-06-2017"
+        },
+        {
+            "institutionName": "Lyceum of Information Technologies",
+            "educationType": "Senior High School",
+            "fieldOfStudy": "Information Technologies",
+            "startDate": "01-09-2012",
+            "endDate": "01-06-2015"
+        }
+    ]
+}
